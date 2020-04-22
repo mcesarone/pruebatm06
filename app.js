@@ -1,7 +1,7 @@
 console.log('Mi primer repo git');
 
-function sumar(){
-    return a+break;
+function sumar(a,b){
+    return a+b;
 }
 
-sumar();
+console.log(sumar(3,4));
